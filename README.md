@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ----------------------
 
-![a](kodluyoruzilkrepo\img\Screenshot1.png)
+![](\img\Screenshot1.png)
 
 ## Installation
 
